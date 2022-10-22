@@ -16,7 +16,7 @@ public class Latihan04 {
 					if (angka%i == 0) {
 						System.out.println("Hasil Faktorisasi dari "+angka+" =");
 						String koma = (i>1)?",":".";
-						String result += " "+i+koma;
+						String result = " "+i+koma;
 				}
 		}
 	}
